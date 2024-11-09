@@ -1,0 +1,22 @@
+
+.todo-container{
+  border: 1px solid black;
+  background-color: aqua;
+  width:700px;
+  margin: auto;
+  margin-top: 300px;
+
+}
+
+
+input {
+  width: 100%;
+}
+
+.kg-button {
+  min-width: 80px;
+}
+
+.kg-row {
+  margin: 10px 5px;
+}
